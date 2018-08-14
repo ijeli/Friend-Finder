@@ -1,18 +1,18 @@
-var friends = [
+var theList = [
     {
         name: "Old Greg",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjVxcv1quPcAhUjTt8KHVzVAgoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F142496775679715248%2F&psig=AOvVaw2K3fSAghIf3InGfQBJY2Fj&ust=1534019714184445",
+        photo: "https://vignette.wikia.nocookie.net/mightyboosh/images/b/b6/Old_Gregg.jpg/revision/latest?cb=20090417120306",
         score: [
-            1, 1, 1, 1, 1, 1, 1, 1, 1 
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1
         ]
     },
     {
         name: "Mr. Rogers",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjAoIn7q-PcAhWtT98KHXWkC_QQjRx6BAgBEAU&url=https%3A%2F%2Fwww.nbcnews.com%2Fthink%2Fopinion%2Fwon-t-you-be-my-neighbor-remembering-mr-rogers-man-ncna881551&psig=AOvVaw0CBbMDJ9ZWyXjLQpakU0xJ&ust=1534019990030298",
+        photo: "https://www.gannett-cdn.com/-mm-/021b394d3b5390b5b81c3cd2571adc0eca3e6372/c=0-32-2000-1536/local/-/media/2017/09/13/IAGroup/DesMoines/636409141467623936-dmrdc5-5c1eoih5o7t14i0tjazz-original.jpg?width=534&height=401&fit=crop",
         score: [
-        5, 5, 5, 5, 5, 5, 5, 5, 5
+            5, 5, 5, 5, 5, 5, 5, 5, 5, 5
         ]
     },
 ];
 
-module.exports = friends;
+module.exports = theList;
